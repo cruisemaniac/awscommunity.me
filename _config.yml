@@ -13,17 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-lang:  ja_JP
-title: JAWS-UG（AWS User Group – Japan）
-email: jawsug@gmail.com
+lang:  en_AE
+title: AWS User Groups MENA
+email: menaawsug@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  - JAWS-UG（AWS User Group – Japan）は、AWS (Amazon Web Services) が提供するクラウドコンピューティングを利用する人々の集まり（コミュニティ）です。
+  - AWS User Groups MENA - AWS (Amazon Web Services) - مجموعات مستخدمي AWS منطقة MENA
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jaws-ug.jp"
+url: "https://awscommunity.me"
 github: jaws-ug
 
 # jekyll-seo-tag
-author: jaws-ug
+author: aws-mena-ug
 twitter:
   username: jawsdays
 facebook:
@@ -38,8 +38,8 @@ defaults:
       image: /assets/images/ogp-default-image.png
 
 # Google services
-google_site_verification: ggJSPFscP1CIUrjY0cXU-siEhP3MiigFuFBf0iMcjb4
-google_analytics: UA-99836269-1
+google_site_verification: 
+google_analytics: 
 
 # favicon
 favicon:
